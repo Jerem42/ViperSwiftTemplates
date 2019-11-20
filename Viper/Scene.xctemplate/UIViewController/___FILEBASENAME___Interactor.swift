@@ -1,6 +1,6 @@
 //___FILEHEADER___
 
-import UIKit
+import Foundation
 
 protocol APIServiceProtocol {
 //    func doSomeWork(completion: @escaping (() -> Void))
