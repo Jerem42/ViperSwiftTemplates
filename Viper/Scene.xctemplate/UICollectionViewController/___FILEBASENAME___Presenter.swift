@@ -2,7 +2,7 @@
 
 import Foundation
 
-protocol ___VARIABLE_sceneName___PresentationLogic {
+protocol ___VARIABLE_sceneName___PresentationLogic: AnyObject {
 //    func presentSomething()
 }
 

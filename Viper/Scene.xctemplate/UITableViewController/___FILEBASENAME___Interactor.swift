@@ -2,6 +2,10 @@
 
 import UIKit
 
+protocol APIServiceProtocol {
+//    func doSomeWork(completion: @escaping (() -> Void))
+}
+
 protocol ___VARIABLE_sceneName___BusinessLogic {
 //    func doSomething()
 }
@@ -23,7 +27,6 @@ extension ___VARIABLE_sceneName___Interactor: ___VARIABLE_sceneName___BusinessLo
 //        }
 //    }
 }
-
 
 struct APIService: APIServiceProtocol {
 //    func doSomeWork(completion: @escaping (() -> Void)) {}
